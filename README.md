@@ -1,2 +1,2 @@
-test_proj1
+sample_proj1
 ==========
